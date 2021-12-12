@@ -18,7 +18,7 @@ Want to contact me? [Send me an email!](mailto:josephjamesmetcalfe@gmail.com)
   
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
-![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C-Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
+![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
 ![Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
 ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
