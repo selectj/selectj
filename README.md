@@ -4,4 +4,4 @@
 
 I'm a London based backend developer, currently specialising in eCommerce.
 
-Want to contact me? [Send me an email!](mailto:josephjamesmetcalfe@gmail.com)
+Want to contact me? [Send me an email!](mailto:me@joemet.co.uk)
